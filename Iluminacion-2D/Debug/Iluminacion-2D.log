@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Programación Vacacional\GitHub\Iluminacion-2D\Iluminacion-2D\Circulo.h(5,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Iluminacion-2D\Iluminacion-2D\Circulo.h(5,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Iluminacion-2D\Iluminacion-2D\Circulo.h(5,65): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Iluminacion-2D\Iluminacion-2D\Circulo.h(5,45): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Iluminacion-2D\Iluminacion-2D\Circulo.h(26,57): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Iluminacion-2D.vcxproj -> C:\Programación Vacacional\GitHub\Iluminacion-2D\Debug\Iluminacion-2D.exe
